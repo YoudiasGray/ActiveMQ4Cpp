@@ -154,7 +154,7 @@ https://blog.csdn.net/lishenluo/article/details/107864758
 
 3 编译example的时候目前做法是将lib和dll放到了vs2010-build目录，vs2010-build\Win32\Debug目录，\vs2010-build\Win32\Debug\activemq-cpp-example目录，实际上应该不需要每次都放，但是编译一次时间太长，目前确认这么放可以编译通过，哪个是必须的待测试。
 
-4 如果只是使用实验，也可以直接下载整理过的可编译工程，地址：
+4 如果只是使用实验，也可以直接下载整理过的可编译工程，地址：[YoudiasGray/ActiveMQ4Cpp: ActiveMQ for c++ (github.com)](https://github.com/YoudiasGray/ActiveMQ4Cpp)
 
 
 
